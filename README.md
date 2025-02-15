@@ -70,8 +70,7 @@ Mata Kuliah : Praktikum Jaringan Komputer <br>
 
 |  PENGUKURAN  |       NILAI      |   KATEGORI   |
 | ------------ | ---------------- | ------------ |
-|  Throughput  |        86k       |    rendah    |
-|              |       688k       |    rendah    |
+|  Throughput  |       688k       |    rendah    |
 |  Packet Loss |       0.01%      | sangat bagus |
 |     Delay    |   11.202087 ms   | sangat bagus |
 |    Jitter    |  0.000709989 ms  | sangat bagus |
