@@ -68,12 +68,20 @@ Mata Kuliah : Praktikum Jaringan Komputer <br>
 ```
 - Tabel
 
-|  PENGUKURAN  | NILAI | KATEGORI |
-| ------------ | ----- | -------- |
-|  Throughput  |  ...  |    ...   |
-|              |  ...  |          |
-|  Packet Loss |  ...  |    ...   |
-|     Delay    |  ...  |    ...   |
-|    Jitter    |  ...  |    ...   |
+|  PENGUKURAN  |       NILAI      |   KATEGORI   |
+| ------------ | ---------------- | ------------ |
+|  Throughput  |        86k       |    rendah    |
+|              |       688k       |    rendah    |
+|  Packet Loss |       0.01%      | sangat bagus |
+|     Delay    |   11.202087 ms   | sangat bagus |
+|    Jitter    |  0.000709989 ms  | sangat bagus |
 
 ### 9. Setelah mendapatkan hasil perhitungan Throughput, Packet Loss, Delay, dan Jitter. Selanjutnya isilah tabel indeks yang didapatkan dari pengukuran Quality of Service (QoS):
+
+|    PENGUKURAN    |   INDEKS   |   KATEGORI   |
+| ---------------- | ---------- | ------------ |
+|    Throughput    |      1     |    rendah    |
+|    Packet Loss   |      4     | sangat bagus |
+|       Delay      |      4     | sangat bagus |
+|      Jitter      |      4     | sangat bagus |
+| Rata-rata Indeks |    3.25    |    Bagus     |
