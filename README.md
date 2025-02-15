@@ -71,6 +71,7 @@ Mata Kuliah : Praktikum Jaringan Komputer <br>
 |  PENGUKURAN  | NILAI | KATEGORI |
 | ------------ | ----- | -------- |
 |  Throughput  |  ...  |    ...   |
+|              |  ...  |          |
 |  Packet Loss |  ...  |    ...   |
 |     Delay    |  ...  |    ...   |
 |    Jitter    |  ...  |    ...   |
